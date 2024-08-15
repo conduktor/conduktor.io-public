@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Conduktor Blog posts | RSS Feed]]></title>
+        <description><![CDATA[Conduktor Blogs]]></description>
+        <link>https://www.conduktor.io</link>
+        <image>
+            <url>https://www.conduktor.io/images/logo/square.png</url>
+            <title>Conduktor Blog posts | RSS Feed</title>
+            <link>https://www.conduktor.io</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 14 Aug 2024 15:35:54 GMT</lastBuildDate>
+        <atom:link href="https://www.conduktor.io/blog/rss-kafka.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 14 Aug 2024 15:35:54 GMT</pubDate>
+        <copyright><![CDATA[All rights reserved 2024, Conduktor]]></copyright>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Real-time Data with Kafka: Build Tooling That Scales]]></title>
+            <description><![CDATA[Avoid these common real-time data implementation mistakes and build a tooling strategy to scale your Kafka deployment efficiently and securely.]]></description>
+            <link>https://www.conduktor.io/blog/real-time-data-with-kafka</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/real-time-data-with-kafka</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kafka Encryption and Security: Best Practices for Protecting Data]]></title>
+            <description><![CDATA[Companies are increasingly concerned about security in Kafka. Here’s how to help secure against breaches and misuse using encryption and best practices.]]></description>
+            <link>https://www.conduktor.io/blog/kafka-encryption-security</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/kafka-encryption-security</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enforcing Kafka Data Quality at Scale]]></title>
+            <description><![CDATA[Logs, schemas, and DLQs aren’t enough to enforce data quality on Kafka: implement guardrails to prevent bad quality data from entering your system, without interfering with producers or consumers.]]></description>
+            <link>https://www.conduktor.io/blog/enforcing-kafka-data-quality-at-scale</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/enforcing-kafka-data-quality-at-scale</guid>
+            <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kafka GitOps: Preparing Your Deployment to Scale Efficiently]]></title>
+            <description><![CDATA[Complex infrastructure calls for automation. See how GitOps streamlines Kafka configuration and resource management, and scale your deployments efficiently.]]></description>
+            <link>https://www.conduktor.io/blog/kafka-gitops-for-efficient-scaling</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/kafka-gitops-for-efficient-scaling</guid>
+            <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Product Release v1.24 -  Groups & Permissions support in CLI, Topic Catalog filtering and more]]></title>
+            <description><![CDATA[Groups & permissions as code, topic catalog filtering and more info per message]]></description>
+            <link>https://www.conduktor.io/blog/1.24-release-blog</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/1.24-release-blog</guid>
+            <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flix Scales Data-Driven Transport Logistics With Conduktor]]></title>
+            <description><![CDATA[Flix scales Kafka data-streaming operations from 25 to 50 teams with Conduktor. Optimizing fleet tracking, route efficiency, and AI-driven customer experiences across Europe and North America.]]></description>
+            <link>https://www.conduktor.io/blog/flix-scales-data-driven-transport-logistics-with-conduktor</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/flix-scales-data-driven-transport-logistics-with-conduktor</guid>
+            <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Product Release v1.23, Introducing Topics and Topic Policies]]></title>
+            <description><![CDATA[Self-service, Topic Catalog, customizable Consume page and quality of life improvements!]]></description>
+            <link>https://www.conduktor.io/blog/1.23-release-blog</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/1.23-release-blog</guid>
+            <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conduktor 2.0: The new standard for teams working with Kafka]]></title>
+            <description><![CDATA[Conduktor is thrilled to announce significant updates to its platform, including an epic expansion of its free tier.]]></description>
+            <link>https://www.conduktor.io/blog/conduktor-2-0-the-new-standard-for-teams-working-with-kafka</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/conduktor-2-0-the-new-standard-for-teams-working-with-kafka</guid>
+            <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sharing Real-Time Data with Your Partners]]></title>
+            <description><![CDATA[Sharing data outside your organization can be painful, let's make it simple]]></description>
+            <link>https://www.conduktor.io/blog/sharing-data-with-partners</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/sharing-data-with-partners</guid>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kafka Summit London 2024: Feedback from our booth]]></title>
+            <description><![CDATA[Our review of Kafka Summit London 2024: Analytics, Self-Serve, SQL]]></description>
+            <link>https://www.conduktor.io/blog/kafka-summit-london-2024</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/kafka-summit-london-2024</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Step-by-Step: Deploy the most advanced Kafka Console on AWS in minutes]]></title>
+            <description><![CDATA[Launching Conduktor in minutes using CloudFormation and ECS Fargate.]]></description>
+            <link>https://www.conduktor.io/blog/step-by-step-deploy-the-most-advanced-kafka-console-on-aws-in-minutes</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/step-by-step-deploy-the-most-advanced-kafka-console-on-aws-in-minutes</guid>
+            <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why tagging infrastructure and data resources is important]]></title>
+            <description><![CDATA[Discover how tagging leads to better data management and analytics, and all the strategies around it.]]></description>
+            <link>https://www.conduktor.io/blog/data-chaos-clarity-tag-everything-everywhere</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/data-chaos-clarity-tag-everything-everywhere</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scaling Kafka Securely for your Organization]]></title>
+            <description><![CDATA[Overcoming the hurdles of scaling data streaming across multiple teams and business units]]></description>
+            <link>https://www.conduktor.io/blog/scaling-kafka-securely-for-your-organization</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/scaling-kafka-securely-for-your-organization</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A new Getting Started Experience with Kafka & Conduktor]]></title>
+            <description><![CDATA[Big Update! Try Kafka in a couple minutes and dive into Conduktor's unique Kafka developers & organizational features.]]></description>
+            <link>https://www.conduktor.io/blog/a-new-getting-started-experience-with-kafka-and-conduktor</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/a-new-getting-started-experience-with-kafka-and-conduktor</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Future of Data Streaming: Current 2023 & Big Data London]]></title>
+            <description><![CDATA[Insights and learnings from the forefront of data streaming]]></description>
+            <link>https://www.conduktor.io/blog/the-future-of-data-streaming-current-2023-big-data-london</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/the-future-of-data-streaming-current-2023-big-data-london</guid>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing your Apache Kafka Data with Confidence (2023)]]></title>
+            <description><![CDATA[In this post we'll explore some methods you can use to test components within your Apache Kafka architecture.]]></description>
+            <link>https://www.conduktor.io/blog/testing-your-apache-kafka-data-with-confidence-2023</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/testing-your-apache-kafka-data-with-confidence-2023</guid>
+            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with PySpark, Kafka, SQL, and AI]]></title>
+            <description><![CDATA[How to run SQL queries over Kafka in seconds? With PySpark, we get a system where we can run ad-hoc analysis locally and any SQL queries to explore our data quickly.]]></description>
+            <link>https://www.conduktor.io/blog/getting-started-with-pyspark-and-kafka</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/getting-started-with-pyspark-and-kafka</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Console 1.18 brings rich filters, Kafka ACLs, and Service Accounts]]></title>
+            <description><![CDATA[Learn whats new in Console v1.18. We’ve overhauled how we explore data in our Kafka UI and how we manage Kafka ACLs and Service Accounts.]]></description>
+            <link>https://www.conduktor.io/blog/conduktor-1-18-rich-filters-kafka-acls-service-accounts</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/conduktor-1-18-rich-filters-kafka-acls-service-accounts</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Console 1.17 brings programmatic access and granular RBAC to Kafka resources]]></title>
+            <description><![CDATA[Learn whats new in Console release 1.17. This release brings a host of exciting new features such as APIs and the richest set of configurable permissions available in any Kafka UI!]]></description>
+            <link>https://www.conduktor.io/blog/console-1-17-brings-programmatic-access-and-granular-rbac-to-kafka-resources</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/console-1-17-brings-programmatic-access-and-granular-rbac-to-kafka-resources</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conduktor & Redpanda: Best of Breed Kafka Experience]]></title>
+            <description><![CDATA[What happens when you combine Conduktor and Redpanda? See how we are working together to give the best experience to developers and infrastructure teams. Simplicity and cost-efficiency.]]></description>
+            <link>https://www.conduktor.io/blog/conduktor-redpanda-best-breed-kafka-experience</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/conduktor-redpanda-best-breed-kafka-experience</guid>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conduktor available on the AWS Marketplace to complement MSK]]></title>
+            <description><![CDATA[AWS provides an exceptional managed Kafka Streaming Platform while Conduktor provides the best tooling to work with Kafka! Let's see how they work together.]]></description>
+            <link>https://www.conduktor.io/blog/conduktor-available-on-the-aws-marketplace-to-complement-msk</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/conduktor-available-on-the-aws-marketplace-to-complement-msk</guid>
+            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top 5 Tips to build more robust and performant Kafka applications]]></title>
+            <description><![CDATA[From designing topics and optimizing performance to handling tombstones and tuning producers. Gain essential knowledge and best practices to build robust and efficient Kafka applications.]]></description>
+            <link>https://www.conduktor.io/blog/top-5-tips-to-build-more-robust-and-performant-kafka-applications</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/top-5-tips-to-build-more-robust-and-performant-kafka-applications</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond Limits: Produce large records without undermining Apache Kafka?]]></title>
+            <description><![CDATA[Apache Kafka is limited to 1MB-record by default. Increasing this limit may lead to issues if executed poorly. We provide an ingenious solution to overcome this without compromising Kafka’s performance and reliability.]]></description>
+            <link>https://www.conduktor.io/blog/beyond-limits-produce-large-records-without-undermining-apache-kafka</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/beyond-limits-produce-large-records-without-undermining-apache-kafka</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Disaster Hits Kafka: Are you ready?]]></title>
+            <description><![CDATA[Do you know what happens in your organization if one Kafka cluster fails? Let’s dive deep into Kafka failover strategies!]]></description>
+            <link>https://www.conduktor.io/blog/when-disaster-hits-kafka-are-you-ready</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/when-disaster-hits-kafka-are-you-ready</guid>
+            <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 practices for Kafka Leaders to build an efficient Streaming Platform]]></title>
+            <description><![CDATA[Should enterprises go with a Centralized approach? Decentralized? How to free the data in an organization and deal with all the challenges along the way?]]></description>
+            <link>https://www.conduktor.io/blog/5-practices-for-kafka-leaders-to-build-an-efficient-streaming-platform</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/5-practices-for-kafka-leaders-to-build-an-efficient-streaming-platform</guid>
+            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to encrypt data in Kafka without piling up tech debt?]]></title>
+            <description><![CDATA[Kafka excels at moving data in-transit, but not so much about protecting data at rest — which is a necessity for enterprises. Let's delve into the current state of affairs exploring a typical scenario you may find in your organization, and our solutions to this challenge.]]></description>
+            <link>https://www.conduktor.io/blog/how-to-encrypt-data-in-kafka-without-piling-up-tech-debt</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/how-to-encrypt-data-in-kafka-without-piling-up-tech-debt</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to deploy Conduktor Gateway?]]></title>
+            <description><![CDATA[Conduktor Gateway sits between your Kafka clusters and your applications and works with the Apache Protocol. We review different ways to deploy it, pros and cons.]]></description>
+            <link>https://www.conduktor.io/blog/how-to-deploy-conduktor-gateway</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/how-to-deploy-conduktor-gateway</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 new ways to drastically reduce your Kafka costs]]></title>
+            <description><![CDATA[Kafka is amazing and easy to start with. It's rapidly adopted in any organization. Then the associated costs start to grow fast as well! Let's embark on the path to cost efficiency to avoid any surprises.]]></description>
+            <link>https://www.conduktor.io/blog/8-new-ways-to-drastically-reduce-your-kafka-costs</link>
+            <guid isPermaLink="true">https://www.conduktor.io/blog/8-new-ways-to-drastically-reduce-your-kafka-costs</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
